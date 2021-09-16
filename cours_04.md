@@ -2,10 +2,10 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Bonjour, je m'appelle Felix et aujour'hui je vais vous présenter 
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Ce qui m'intéresse le plus dans ce domaine s'agit du fait qu'on va jouer avec la réalité virtuelle à un moment donné. J'ai toujours voulu interagir avec le monde tri-dimentionnel, alors j'ai hâte de voir ce qu'on va faire. 
 
 ### Emplois qui vous intéressent
 Nommez deux emplois.
