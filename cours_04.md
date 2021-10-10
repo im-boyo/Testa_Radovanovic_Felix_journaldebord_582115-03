@@ -2,19 +2,30 @@
 ## Plan de présentation
 
 ### Présentation
-Bonjour, je m'appelle Felix et aujour'hui je vais vous présenter 
+-Nom
+-Âge
+-Première session
+-Secondaire
+-Jeux (Exemples)
+-Dessins (Exemples)
 
 ### Intérêts dans le domaine
-Ce qui m'intéresse le plus dans ce domaine s'agit du fait qu'on va jouer avec la réalité virtuelle à un moment donné. J'ai toujours voulu interagir avec le monde tri-dimentionnel, alors j'ai hâte de voir ce qu'on va faire. 
+-Réalité virtuelle
+-Animation 2D/3D
+-Montage vidéo
+-Programmation
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Animateur 2D/3D
+-Modeleur tridimensionnel
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+-NifastGreentail
+-Project: Eden's Garden
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+-Université
+-Project: Eden's Garden
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+-Project: Eden's Garden
