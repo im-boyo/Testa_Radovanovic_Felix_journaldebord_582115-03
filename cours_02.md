@@ -17,4 +17,5 @@ Expliquer pourquoi vous avez choisi ce lien.
 Expliquer pourquoi vous avez choisi ce lien.  
 
 ## Publication sur Teams
-Publier un de ces liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 
+https://montreal.mutek.org/en/artists/sammy-lee-m-j-harding
+J'ai choisi _SONG_ de Sammy Lee et M. J. Harding parce qu'elle utilise la K-Pop pour parler de ce qu'elle cache, soit le côté sombre de la Corée. De plus, je trouve cela intéressant parce que c'est très important de montrer à tout le monde, surtout aux fans de la K-Pop, que la Corée n'a pas été un pays parfait, et ne l'est toujours pas.
