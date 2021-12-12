@@ -3,19 +3,31 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Toujours frais, toujours prêt
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+- Distributeur automatique
+- Payement cash ou carte
+- Imgrédients à volonté
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+![storyboard](Images/storyboard.png)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![schema](Images/schema.png)
+
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+- Programmeur
+- Ingénieur
+- Designer
+- Développeur de logiciel
+- Producteur
+- Directeur de finances
+- Marketing
+- Manager des multimédias
+- Animateur 2D
+- Gestionnaire de projet
 
 ### Étapes de réalisation
-Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Évaluation, Concept, Maquette, Production, Opération
