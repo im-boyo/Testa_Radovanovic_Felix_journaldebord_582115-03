@@ -2,7 +2,7 @@
 ## Préparation de la présentation 3 
 Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
 
-![brainstorm1](Images/brainstorm1.png)
+![brainstorm1](Images/brainstorn1.png)
 
 ![brainstorm2](Images/brainstorm2.png)
 
