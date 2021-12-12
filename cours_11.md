@@ -3,13 +3,21 @@
 Durée: 5 à 7 minutes
 
 ### Présentation
-Parlez du projet multimédia sélectionné. 
+- Jeu d'action RPG
+- Monde ouvert
+- Histoire
+- Méchaniques du jeu
+- Compagnie
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+![Carte_heuristique](Images/Carteheuristique.JPG)
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+- Unity
 
 ### Analyse critique
-Faites une analyse critique du projet. En quoi est-il pertinent? Sur quels aspects pourrait-il être amélioré? Quels sont ses points forts? En quoi ce projet est-il original? 
+- Histoire originale
+- Design des personnages
+- Intéractif
+- Point fort: Graphiques
+- Point faible: Système Gacha
